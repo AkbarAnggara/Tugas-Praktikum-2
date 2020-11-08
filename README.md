@@ -32,7 +32,7 @@ Dengan begitu kalian sudah berhasil mencari 1 nilai terbesar dari 3 bilangan yan
 
 Untuk bisa menghasil flowchart di atas, maka kalian harus download terlebih dahulu
 
-![link](http://www.flowgorithm.org/download/)
+[Click Here](http://www.flowgorithm.org/download/)
 
 Download lah yang sesuai dengan spesifikasi laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
 
