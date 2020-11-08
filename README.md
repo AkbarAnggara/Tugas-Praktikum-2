@@ -18,7 +18,7 @@ Keterangan:
  - Disini saya menggunakan a, b, dan c untuk simbolnya
  - Saya menggunakan integer, karena input yang akan kita masukkan nanti berupa angka
  - Saya menggunakan if, karena di soal latihan kita di perintahkan menggunakan statement if
- - Selain itu, if, elif, dan else di gunakan untuk mencari nilai terbesar dari 3 bilangan atau angka yang diinputkan tadi
+ - Selain itu, if, elif, dan else di gunakan untuk mencari nilai(True) terbesar dari 3 bilangan atau angka yang diinputkan tadi
  
 Maka hasil run dari syntax di atas adalah sebagai berikut
 
@@ -59,7 +59,7 @@ cara sebagai berikut
 
 ![akbar2.PNG](Pic/akbar2.PNG)
 
-Dengan begini selesai sudah tugas pertemuan 7 - praktikum 2
+Dengan begini selesai sudah Tugas Pertemuan 7 - Praktikum 2, lanjut ke Tugas Pertemuan 7 - Praktikum 3
 
 # ===Bangkit Akbar Anggara===
 # ===Terimakasih Banyak===
