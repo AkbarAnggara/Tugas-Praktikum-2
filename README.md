@@ -6,7 +6,7 @@ NIM : 312010148
 
 Kelas : TI.20.B.1
 
-#Tugas Praktikum 2
+# Tugas Praktikum 2
 
 Pada pertemuan 7 saya di beri tugas ke-2, yaitu :
 
