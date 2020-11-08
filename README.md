@@ -22,7 +22,7 @@ Keterangan:
  - Saya menggunakan if, karena di soal latihan kita di perintahkan menggunakan statement if
  - Selain itu, if, elif, dan else di gunakan untuk mencari nilai terbesar dari 3 bilangan atau angka yang diinputkan tadi
  
-Maka output dari syntax di atas adalah
+Maka hasil run dari syntax di atas adalah sebagai berikut
 
 ![hasil_latihan.PNG](Pic/hasil_latihan.PNG)
 
